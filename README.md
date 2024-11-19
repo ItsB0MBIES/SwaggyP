@@ -6,7 +6,9 @@
   <img src="https://img.shields.io/badge/Platform-iOS%2012%2B%20%7C%20iPadOS%2014%2B-blue?logo=apple&logoColor=white" alt="Platform Badge">
 </p>
 
-<h2 align="center">Add source to ESign/AltStore/SideStore:([[https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json](https://github.com/ItsB0MBIES/SwaggyP/blob/19acfa73c282b454253c961e5f860f617ec3249a/apps.json)](https://github.com/ItsB0MBIES/SwaggyP/blob/19acfa73c282b454253c961e5f860f617ec3249a/apps.json))</h2>
+<h2 align="center">Add source to ESign/AltStore/SideStore:
+https://raw.githubusercontent.com/ItsB0MBIES/SwaggyP/refs/heads/main/apps.json
+</h2>
 
 *Huge thanks to [hieuddo](https://github.com/hieuddo) for their effort to get this up and running. There are still a few issues I've noticed with how the repo is updated. While this is a good companion to have, following up with this repo itself is currently the best way to catch up on all IPA releases.*
 
